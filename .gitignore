@@ -1,0 +1,6 @@
+#ignore all latex built files to avoid verbose status outputs
+*.out
+*.pdf
+*.aux
+*.log
+*.*~
