@@ -1,0 +1,85 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{hyperref}
+\usepackage{comment}
+\usepackage{enumerate}
+\usepackage{etoolbox}
+
+%opening
+\title{Bilgisayar Bilimlerine başlamak isteyen birine tavsiyeler}
+
+\author{Chris Stephenson}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+Bilgisayar Bilimlerinde ilerlemek isteyen birileri için çeşitli seviyelerine göre ne yapmalı sorusuna hep beraber cevap verelim. 
+\end{abstract}
+
+\section*{Pratik}
+\begin{enumerate}
+  \item GNU/Linux
+    \begin{enumerate}[(a)]
+      \item Bilgisayarına yükle 
+      \item Hergün yapılan işler içi BASH script yaz
+      \item BASH iyice öğren
+    \end{enumerate}
+  \item GitHub
+    \begin{enumerate}[(a)]
+      \item GitHub Sudent Pack (Öğrenciysen)
+      \item GitHub hesabı
+      \item GiThub'da proje aç
+      \item git'i komut satırından kullan.
+    \end{enumerate}
+  \item Server işleri
+    \begin{enumerate}[(a)]
+      \item Ufak bir server al (Student Pack'tan digital ocean) yoksa Linode \$5. Paran yoksa birkaç arakadaşla beraber 
+      \item GitHub hesabı
+      \item Suitable directory structure in the repo **in progress**
+    \end{enumerate}
+  \item \LaTeX document style and template
+    \begin{enumerate}[(a)]
+      \item To Do list in \LaTeX ** done **
+    \end{enumerate}
+  \item Lambda calculus read the short Barendregdt and view CS lessons – write an intro to Lambda calc ** in progress **
+    \begin{enumerate}[(a)]
+      \item Convert lambda calculus examples to fully bracketed form.
+    \end{enumerate}
+  \item Read about simple type lambda calculus
+  \item make list of resources on Type theory 
+  \item make list of resources on Category theory
+  \item Haskell
+    \begin{enumerate}[(a)]
+      \item Pick and install a Haskell development environment. ** done **
+     \end{enumerate}
+\end{enumerate}
+
+\section*{Teori}
+\begin{enumerate}
+  \item GitHub
+    \begin{enumerate}[(a)]
+      \item Get GitHub account
+      \item Put all documents, drafts and code snippets into the repo **in progress**
+      \item Suitable directory structure in the repo **in progress**
+    \end{enumerate}
+  \item \LaTeX document style and template
+    \begin{enumerate}[(a)]
+      \item To Do list in \LaTeX ** done **
+    \end{enumerate}
+  \item Lambda calculus read the short Barendregdt and view CS lessons – write an intro to Lambda calc ** in progress **
+    \begin{enumerate}[(a)]
+      \item Convert lambda calculus examples to fully bracketed form.
+    \end{enumerate}
+  \item Read about simple type lambda calculus
+  \item make list of resources on Type theory 
+  \item make list of resources on Category theory
+  \item Haskell
+    \begin{enumerate}[(a)]
+      \item Pick and install a Haskell development environment. ** done **
+     \end{enumerate}
+\end{enumerate}
+
+
+\end{document}

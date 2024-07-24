@@ -1,0 +1,40 @@
+
+Soru:
+
+Merhabalar hocam ,
+Bir seminerinizde java'yı geçmişin c'sine benzettiniz,c geçmişimizde ön plandaydı java geleceğin teknolojisi olucak diye konuşulurken okullarda c üzerine duruluyordu ve bundan o dönemde rahatsız olduğunuzu söylediniz.
+Siz seminerinizde şuanda javada böyle dediniz ama fazla vaktiniz yoktu üzerinde duramadınız.Eğer gelecekte javanın yerine geçiçek  bukadar popüler olucak ve kullanıcağını düşündüğünüz bir yazılım dili varsa benimle paylaşabilirmisiniz ?
+
+Cevap:
+
+Bir dizi aday var. Bir parçalanma da söz konusu olacak. Java gibi hakim olan tek bir dil olmayacak galiba. Şu anda Python bir sürü alanda çok popüler olmuş. Bir Büyük Veri, Yapay Zeka gibi bir dizi alanda yardımcı scripting dili olarak kullanılıyor. Yani Python'da program yazmayacaksan bile, Python'u okumak zorunda kalacaksın. Python'u öğren.
+
+Ancak ana tavsiyem Functional Programming öğrenmek. Geleck bu. Diller: Racket, Haskell, O Caml, ML, Scala. Önemli olan bu paradigmada deneyim kazanmak. O zihne sahip olmak önemli. O dillerden en kolay Racket. "How to Design programs" kitabını da tavisye ederim (Racket kullanıyor)
+
+Bir daha hiçbir functional dilde program yazmazsan bile programların daha güzel olacak.
+
+Soru:
+Merhaba hocam. Ben İstanbul Üniversitesi'nde elektrik elektronik mühendisliği okuyorum. Bilgi Üniversite'sinde okuyan bir arkadaşımdan isminizi duydum. Benim size bir sorum olacaktı. Ben yazılım üzerine eğitim alıyorum bir süredir. C ve python dillerinden ilerledim biraz. Ben yapay zekaya yoğunlaşmak istiyorum. Kitap aldım ondan çalışmaya başladım biraz biraz. Benim size iki sorum var: 1-Algoritma mantığını geliştirmek için ne önerirsiniz? 2- Yapay zeka konusunda önerebileceğiniz kaynak var mı? Yardımcı olursanız çok mutlu olurum.
+
+Cevap:
+
+1. Algoritmada klasik kitap Cormen. Çok kolay bir kitap değil, ve eksikleri var ama iyisi yok. PDF'i bulunur.
+
+2. Yapay zeka: Arkadaşım Geoff Hinton yapay sinir ağları alanı kuranlardan. Back Propagation algoritmasının icatcısı. Coursera'da online dersi var. Tavsiye ederim. Sertifika istemezsen bedava. Değer.
+
+3. Ancak ana tavsiyem Functional Programming öğrenmek. Geleck bu. Diller: Racket, Haskell, O Caml, ML, Scala. Önemli olan bu paradigmada deneyim kazanmak. O zihne sahip olmak önemli. O dillerden en kolay Racket. "How to Design programs" kitabını da tavisye ederim (Racket kullanıyor)
+
+Bir daha hiçbir functional dilde program yazmazsan bile programların daha güzel olacak. 
+
+Başka sorun varsa haberim olsun
+Soru:
+Çok teşekkür ederim cevaplarınız için. Coursera'dan Michigan Üniversitesinin python kurslarını alıyorum bu sıralar daha 3 kurum var o kursta. Onu öğreniyorum. O bittiğinde yapay zeka için bir kurs almayı düşünüyordum. Stanford Üniversitesi'nin Machine Learning kursu mu daha verimli olur başlangıç için sizce yoksa Geoff Hinton'ın dersi mi?
+
+Cevap:
+Birbirine ek yapar. Stanford dersi veren Andrew Ng Geoff Hinton ile ünlü Google "kedi" takıımında çalışmış.  Ng'nin Coursera kurunun bir dersinde Geoff ile de söyleşi yapıyor. Geoff'in Coursera dersi tamamen yapay sinir ağları merkezli. Ng'nin dersi daha geniş. Galiba ikisini de almak gerek. Hangisi önce tercih meselesi.
+
+Soru:
+Chris hocam ben matematik kampından bir öğrencinizim.Şu sıralar c++ öğrenmeye başladım.Bana kodlama için hangi kaynağı önerirsiniz?
+
+Cevap:
+C++ il başlamanı tavsiye etmem ama bu tamamen sana bağlı. En önemli şey programlama dili değil, yaklaşım. C++  zor bir dil. Zor öğrenilen bir dil istiyorsan Haskell'i öğren. Gelecekte çok daha fazla işine yarar. İngilizcen var mı? Önce İngilizce seviyeni söyle. Ona göre kaynak
